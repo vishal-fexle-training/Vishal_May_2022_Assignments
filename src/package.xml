@@ -22,7 +22,7 @@
         <members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_of_Class__c</members>
-        <name>CustomTab</name>
+        <name>ApexClass</name>
     </types>
     <version>53.0</version>
 </Package>
